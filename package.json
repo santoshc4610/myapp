@@ -1,0 +1,24 @@
+{
+  "name": "mynode",
+  "version": "1.0.0",
+  "description": "first node project",
+  "main": "MyNode.js",
+  "scripts": {
+    "test": "no test",
+    "start": "node MyNode.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "no"
+  },
+  "keywords": [
+    "no"
+  ],
+  "author": "no",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "mynode": "file:"
+  }
+}
